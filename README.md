@@ -38,7 +38,7 @@ Sniff-Block.js uses event listeners to block unwanted actions and detect the use
 Integrating Sniff-Block.js into your web app is easy. Just include the script in your HTML file:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/zmjafary/sniff-block/sniff-block.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/zmjafary/sniff-block@latest/sniff-block.js"></script>
 ```
 
 The script will automatically run, applying security measures to the entire document and specific input fields.
