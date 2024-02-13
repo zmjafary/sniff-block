@@ -25,7 +25,7 @@
     }
 
     function disableShortcuts(event) {
-        const forbiddenKeys = [67, 86, 85, 117, 73];
+        const forbiddenKeys = [67, 86, 85, 117, 123, 73, 82];
         if (forbiddenKeys.includes(event.keyCode)) {
             event.preventDefault();
         }
